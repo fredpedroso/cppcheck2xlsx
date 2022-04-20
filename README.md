@@ -4,8 +4,8 @@ Tool to generate the cppcheck report in an Excel file (.xlsx)
 
 ## Features
 
-  - **ID**: id of error, and which are valid symbolnames.
-  - **Severity**: The possible severities ()
+  - **ID**: id of error, and which are valid symbolnames
+  - **Severity**: Error, Information, Performance, Portability, Style, Warning
   - **Message**: The error message in short format
   - **Verbose**: The error message in long format
   - **CWE**: CWE ID for the problem
