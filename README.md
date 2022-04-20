@@ -17,7 +17,7 @@ Tool to generate the cppcheck report in an Excel file (.xlsx)
 Clone the project repository: 
 
 ```
-git clone https://github.com/fredpedroso/cppcheck2xlsx
+git clone https://github.com/fredpedroso/cppcheck2xlsx.git
 ```
 
 ### Requirements:
