@@ -19,7 +19,7 @@ The tool reads the cppcheck output xml file and generates an excel file containi
 Clone the project repository: 
 
 ```
-$ git clone [https://github.com/fredpedroso/cppcheck2xlsx.git](https://github.com/fredpedroso/cppcheck2xlsx.git)
+$ git clone https://github.com/fredpedroso/cppcheck2xlsx.git
 ```
 
 ### Requirements:
